@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>About Us</title>
+</head>
+<body>
+
+    <nav>
+        <a href="blog.html">Inicio</a> |
+        <a href="about_us.html">About Us</a>
+    </nav>
+    <hr>
+
+    <h1>About Us</h1>
+    <p>Esta página es sobre mí y mi nuevo proyecto de blog.  
+       Soy Sofi, estudiante de <strong>psicopedagogía</strong> que decidió
+       meterse en el mundo de la <em>programación</em>.  
+       Este es solo el comienzo de mi aventura o pesadilla. 🚀</p>
+
+</body>
+</html>
